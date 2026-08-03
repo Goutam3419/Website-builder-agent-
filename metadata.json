@@ -1,0 +1,6 @@
+{
+  "name": "Website Builder Agent",
+  "description": "An advanced AI-powered website builder agent with multi-step reasoning, real GitHub/Vercel/Firebase integrations, multi-user isolation, per-project chat memory, and self-correcting code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
